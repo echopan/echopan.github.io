@@ -7,9 +7,9 @@
             {% if page.url == "/index.html" or page.url == "/" %}
             <li class="chapter active" data-level="1.1" data-path="{{site.url}}">
             {% else %}
-            <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
+            <li class="chapter" data-level="1.1" data-path="{{site.url}}">
             {% endif %}
-                <a href="{{site.baseurl}}">
+                <a href="{{site.url}}">
                     {{ site.title | escape }}
                 </a>
             </li>
