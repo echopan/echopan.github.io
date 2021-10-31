@@ -1,5 +1,5 @@
 ---
 layout: home
 ---
-
-Make Jelly site have a GitBook look!
+ 
+[进入 Notes](https://echopan.github.io/)
