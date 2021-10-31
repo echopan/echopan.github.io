@@ -2,4 +2,4 @@
 layout: home
 ---
  
-[进入 Notes](https://echopan.github.io/)
+[进入 Notes](https://echopan.github.io/Notes)
